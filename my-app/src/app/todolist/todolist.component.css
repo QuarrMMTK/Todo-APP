@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    margin: 20px;
+}
+#submit{
+    margin-top: 20px;
+}
+.caption {
+    white-space: nowrap; /* Prevents wrapping */
+    font-weight: bold; /* Optional: makes the caption bold */
+    margin-bottom: 10px; /* Optional: adds some space below */
+}
+.table{
+    width: 1000px;
+    text-align: center;   
+    margin-left: 100px;
+}
+table #th1{
+    text-align: left;
+}
+table td{
+    text-align: center;
+}
+#submitForm{
+    margin-top: 40px;
+}
+
+#TaskInTable{
+    max-width: 300px;
+}
+#Delete{
+    width: 60px;
+}
+#Edit{
+    width: 60px;
+}
+#Save{
+    width: 60px;
+}
+
+.edit{
+    border: solid 2px orange;
+}
+
+.not-edit{
+    border: none;
+}
+
+.crossed{
+    text-decoration: line-through;
+}
